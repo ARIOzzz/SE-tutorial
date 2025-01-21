@@ -1,5 +1,5 @@
 """
-Check this if it is win.
+Check this if it is win. Yes
 """
 def is_win(game):
     win = False

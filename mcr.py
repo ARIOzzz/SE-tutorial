@@ -1,3 +1,6 @@
+"""
+Check this if it is win.
+"""
 def is_win(game):
     win = False
     # Check rows
